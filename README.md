@@ -44,7 +44,3 @@ linux operating system
 
 - ./orion -e Keyword123 < input > encrypted
 - ./orion -d Keyword123 < encrypted > decrypted
-
-## License
-
-Specify the license under which your project is released. You can choose from various open-source licenses, such as MIT, Apache, GPL, etc.
