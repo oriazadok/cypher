@@ -36,11 +36,11 @@ linux operating system
 
 ## Usage
 
-./orion -[flag] [keyword] < [input_file] > [output_file]
+./orion -[flag] -k [keyword] < [input_file] > [output_file]
 - flag: e for encryption and d for decription
 - keyword: can contain only chars between a-z, A-Z, 0-9
 
 ## Examples
 
-- ./orion -e Keyword123 < input > encrypted
-- ./orion -d Keyword123 < encrypted > decrypted
+- ./orion -e -k Keyword123 < input > encrypted
+- ./orion -d -k Keyword123 < encrypted > decrypted
