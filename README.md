@@ -1,6 +1,7 @@
 # Cypher
 
 Welcome to Cypher, a powerful and versatile tool for data encryption and decryption using advanced cryptography. This project offers a secure and efficient solution for safeguarding sensitive information, making it an ideal choice for applications where data privacy is paramount.
+Cypher is implemented in C++, leveraging its powerful features for efficient data processing and cryptography. The project utilizes standard C++ libraries for core functionality, ensuring compatibility and performance across different platforms.
 
 ## Table of Contents
 - [Introduction](#introduction)
